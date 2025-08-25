@@ -65,7 +65,7 @@
 ## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/abhinav20git/kyc-base"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav20git&repo=kyc-base&theme=tokyonight" /></a>
-  <a href="https://github.com/deepakkumarbansal/CampusPulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkumarbansal&repo=CampusPulse&theme=tokyonight" /></a>
+  <a href="https://github.com/deepakkumarbansal/notion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepakkumarbansal&repo=notion&theme=tokyonight" /></a>
 </p>
 
 ---
