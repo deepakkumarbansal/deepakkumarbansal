@@ -4,7 +4,11 @@
 <h3 align="center">Frontend Developer | Frontend Developer | MERN Stack | Exploring AI 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Passionate+Frontend+Developer;Frontend+Developer;MERN+Stack+Explorer;Building+Scalable+Web+Apps;Open+Source+Contributor" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Passionate+Frontend+Developer;Frontend+Developer;MERN+Stack+Explorer;Building+Scalable+Web+Apps;Open+Source+Contributor" 
+    alt="Typing SVG"
+    style="pointer-events: none;" 
+  />
 </p>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2724d4545c1c0b3.gif" />
