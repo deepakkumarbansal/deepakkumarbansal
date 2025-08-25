@@ -10,9 +10,7 @@
   />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2724d4545c1c0b3.gif" />
-
-----
+---
 
 ## 👨‍💻 About Me  
 - 💼 Currently working at **[Asmadiya Technologies Pvt. Ltd.](https://asmadiya.com/)** – as a Frontend Developer (SDE 1).
