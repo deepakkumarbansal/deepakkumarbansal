@@ -14,12 +14,13 @@
 ---
 
 ## 👨‍💻 About Me  
+- 💼 Currently working at **[Asmadiya Technologies Pvt. Ltd.](https://asmadiya.com/)** – as a Frontend Developer (SDE 1).
 - 🔭 Currently building **[AI-KYC Agent](https://github.com/abhinav20git/kyc-base)** – a secure e-KYC system.  
 - 🌱 Learning **GenAI, Angular & Advanced React**.  
-<!-- - 🚀 Creator of **Campus Pulse** 🏫 (student social app) & **Awadh Kesari** 📰 (MERN-based news portal).  -->
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Docker, Git**.  
 - 📄 Resume → [Click Here](https://drive.google.com/file/d/1HteDvZs0mPjP6ROmMiwJEhuAeWRsln2t/view?usp=sharing)  
 - 📫 Reach me at **deepakkumarbansal222@gmail.com**  
+<!-- - 🚀 Creator of **Campus Pulse** 🏫 (student social app) & **Awadh Kesari** 📰 (MERN-based news portal).  -->
 
 ---
 
